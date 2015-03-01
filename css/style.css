@@ -1,0 +1,25 @@
+.carousel-inner > .item > img {
+ margin: 0 auto; 
+}
+
+#map-canvas {
+    width: 600px;
+    height: 500px;
+    /*background-color: #CCC;*/
+  }
+
+
+body{
+	padding-top: 70px;
+}
+
+
+.navbar-brand{
+	font-size: 2em;
+}
+.navbar-brand sub{
+	/*font-size: 0.5em;*/
+}
+.tab-content{
+	margin-top: -20px;
+}
